@@ -1,0 +1,41 @@
+id,category,question,answer
+faq01,accounts,How do I open a savings account?,You can open a savings account in the app under Accounts > Open New. Keep your PAN and Aadhaar ready; video KYC takes about 10 minutes.
+faq02,accounts,What is the minimum balance for a savings account?,The Regular savings account needs an average monthly balance of Rs 5000. The Zero Balance account has no minimum but limits ATM withdrawals to 4 per month.
+faq03,accounts,How can I close my account?,Raise a closure request in the app under Profile > Close Account. Any remaining balance is transferred to your linked bank account within 3 working days.
+faq04,accounts,How do I download my account statement?,Go to Accounts > Statements in the app and choose the date range. Statements are available as PDF for the last 5 years.
+faq05,accounts,How do I add a nominee to my account?,Open Profile > Nominee and add the nominee's name and relationship. You can change the nominee at any time.
+faq06,accounts,What interest rate do savings accounts earn?,Savings accounts earn 3.5% per year on balances up to Rs 1 lakh and 4% above that. Interest is credited quarterly.
+faq07,accounts,Can I have a joint account?,Yes. Joint accounts can be opened at any branch with both holders present for KYC. App-only joint accounts are not available yet.
+faq08,accounts,How do I update my address?,Update your address in Profile > Personal Details and upload a valid address proof. Changes are verified within 2 working days.
+faq09,cards,How do I block my debit card?,Block your card instantly in the app under Cards > Block Card or call 1800-000-1111. A blocked card cannot be unblocked; a new card is issued.
+faq10,cards,My card was stolen. What should I do?,Block the card immediately from the app or by calling 1800-000-1111 and then request a replacement card. Report any unauthorised transactions within 3 days.
+faq11,cards,How do I set or change my card PIN?,Go to Cards > Set PIN in the app and verify with the OTP sent to your registered mobile number.
+faq12,cards,What is the daily ATM withdrawal limit?,The default ATM limit is Rs 25000 per day. You can lower or raise it up to Rs 50000 in Cards > Limits.
+faq13,cards,Can I use my debit card abroad?,Yes. Enable international usage in Cards > Settings before travelling. A 3.5% foreign currency markup applies.
+faq14,cards,Why was my card transaction declined?,"Common reasons are insufficient balance, a wrong PIN, international usage turned off, or the daily limit being reached. Check Cards > Limits in the app."
+faq15,cards,How do I apply for a credit card?,Eligible customers see a pre-approved offer under Cards > Credit Card. Others can apply with their last 3 months of salary slips.
+faq16,cards,When is my credit card bill due?,The bill is generated on the 5th of each month and payment is due by the 25th. Paying only the minimum due attracts interest.
+faq17,loans,What documents do I need for a personal loan?,"You need PAN, Aadhaar, the last 3 months of salary slips and 6 months of bank statements. Self-employed applicants also need 2 years of ITR."
+faq18,loans,What is the interest rate on personal loans?,Personal loan rates start at 10.5% per year and depend on your credit score and income.
+faq19,loans,Can I repay my loan early?,Yes. Part-prepayment is free after 6 EMIs. Full foreclosure has a 2% charge on the outstanding amount.
+faq20,loans,How is my EMI calculated?,"The EMI depends on the loan amount, interest rate and tenure. Use the EMI calculator in Loans > Calculator to see the exact amount."
+faq21,loans,What happens if I miss an EMI?,A late fee of Rs 500 applies and the missed payment is reported to credit bureaus. Contact us before the due date if you expect difficulty paying.
+faq22,loans,Do you offer home loans?,Yes. Home loans are available for up to 80% of the property value with tenure up to 30 years.
+faq23,loans,How long does loan approval take?,Pre-approved personal loans are disbursed instantly. Other personal loans take 2 to 3 working days after documents are verified.
+faq24,loans,How can I check my loan balance?,Your outstanding loan balance and EMI schedule are shown in Loans > My Loans.
+faq25,app,I forgot my app password. How do I reset it?,Tap Forgot Password on the login screen and verify with the OTP sent to your registered mobile number.
+faq26,app,I am not receiving the OTP.,Check that your registered mobile number is correct and has network coverage. Wait 2 minutes and tap Resend OTP. Do not share OTPs with anyone.
+faq27,app,How do I change my registered mobile number?,Mobile number changes need a visit to a branch with your ID proof for security reasons.
+faq28,app,The app keeps crashing. What should I do?,Update the app to the latest version and restart your phone. If it still crashes clear the app cache or reinstall it.
+faq29,app,How do I enable fingerprint login?,Go to Settings > Security > Biometric Login and confirm with your app password.
+faq30,app,Can I use the app on two phones?,No. For security the app can be active on one device at a time. Logging in on a new phone logs out the old one.
+faq31,app,How do I set up UPI in the app?,Open Payments > UPI and link your account. Create a 4 or 6 digit UPI PIN using your debit card details.
+faq32,app,What is the daily UPI limit?,The UPI limit is Rs 1 lakh per day. New users have a Rs 5000 limit for the first 24 hours.
+faq33,security,How do I report a fraud transaction?,Report fraud immediately in Help > Report Fraud or call 1800-000-1111. Reporting within 3 days limits your liability.
+faq34,security,Someone called asking for my OTP. Is this the bank?,No. The bank never asks for your OTP or PIN or password by phone or message or email. Do not share them and report the call in Help > Report Fraud.
+faq35,security,How do I know if an SMS is really from the bank?,Bank messages come only from sender ID SAHYDB. Never click links in messages from other senders.
+faq36,security,How do I change my transaction password?,Go to Settings > Security > Change Password and verify with OTP.
+faq37,security,Is my money safe if the bank fails?,Deposits are insured by DICGC up to Rs 5 lakh per depositor.
+faq38,security,What should I do if my phone is lost?,Call 1800-000-1111 to block app access and your cards. Then visit a branch to update your mobile number.
+faq39,accounts,Can I open an account for my child?,Yes. Minor accounts are available for children under 18 with a parent or guardian as the operator.
+faq40,cards,Is there an annual fee for the debit card?,The Classic debit card is free. The Platinum debit card has an annual fee of Rs 499 waived above an average balance of Rs 50000.
